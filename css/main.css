@@ -1,0 +1,124 @@
+body {
+  background-color: #f8f8f8;
+}
+.maincontainer{
+  margin-top: 59px;
+    margin-left: 25px;
+}
+.tr{
+    font-family: inherit;
+}
+.other{
+  display: inline-block;
+  vertical-align: text-bottom;
+  border-radius: 50%;
+  width: 8rem;
+  height: 8rem;
+  padding: 36px;
+  border: 0.25em solid #20bf6b;
+  border-right-color: #efefef;
+  border-top-color: #efefef;
+}
+.big_circle{
+  width: 9rem;
+  height: 9rem;
+  display: inline-block;
+  border-radius: 50%;
+}
+.background-white{
+  background-color: white;
+  border-radius: 10px;
+margin-left: 2px;
+}
+.background-grey{
+  width: 3rem;
+  height: 3rem;
+  padding: 4px;
+  background-color: rgb(193, 193, 193);
+}
+.background-darkgrey{
+  display: inline-block;
+  vertical-align: text-bottom;
+  border-radius: 50%;
+  text-align: center;
+  border: 0.25em solid  rgb(146, 146, 146);
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.background-textgrey{
+  border-radius: 27px;
+/* padding: 1px; */
+text-align: center;
+/* text-align: end; */
+padding-left: 13px;
+padding-bottom: 9px;
+padding-top: 6px;
+padding-right: 10px;
+background-color: rgb(242, 242, 242);
+}
+.star{
+  font-size: 33px;
+  color: white;
+  line-height: 0.80;
+}
+.goldstar{
+  font-size: 33px;
+  color: gold;
+  line-height: 0.80;
+}
+.h6star{
+  display: contents;
+}
+.forhr{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.justpudding{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.menutext{
+  color: #adadad
+}
+.hoverbtn{
+  background-color: rgb(242, 242, 242);
+  border-radius: 30px;
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.styleForP{
+    padding-top: 10px;
+  font-size: 13px;
+}
+.textUnderImg{
+  text-align: center;
+  color:black;
+}
+.img{
+  border-radius: 26px;
+}
+.halfCircleRight{
+  height: 72px;
+  width: 32px;
+  border-radius: 0 90px 90px 0;
+  background: #f8f8f8;
+}
+.halfCircleLeft{
+  height: 72px;
+  width: 32px;
+  border-radius: 90px 0 0 90px;
+  background: #f8f8f8;
+}
+.forRight{
+  padding-left: 0px;
+  padding-top: 19px;
+}
+.forLeft{
+  padding-left: 52px;
+  padding-top: 19px;
+}
+.forarrow{
+  font-size: 44px;
+text-align: center;
+}
